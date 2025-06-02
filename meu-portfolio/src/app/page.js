@@ -10,13 +10,13 @@ export default function Home() {
             Marcela Dias <br /> Desenvolvedora e Designer
           </h1>
           <div className="flex gap-x-4 sm:gap-x-6">
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="mailto:ddiasmarcela@gmail.com" target="_blank" rel="noopener noreferrer">
               <Image src="/email.svg" height={40} width={40} alt="Email ícone" className="sm:w-[47px] sm:h-[47px]" />
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/M-msdias" target="_blank" rel="noopener noreferrer">
               <Image src="/github.svg" height={40} width={40} alt="Github ícone" className="sm:w-[47px] sm:h-[47px]" />
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/marcela-dias-70b61b325/?originalSubdomain=br" target="_blank" rel="noopener noreferrer">
               <Image src="/linkedin.svg" height={40} width={40} alt="Linkedin ícone" className="sm:w-[47px] sm:h-[47px]" />
             </a>
           </div>

@@ -140,7 +140,7 @@ export default function JogoDaSenha() {
                     className="flex justify-between bg-white p-2 rounded-lg shadow text-sm sm:text-base"
                   >
                     <span>{tentativa.tentativa}</span>
-                    <span>{tentativa.touros}T {tentativa.vacas}V</span>
+                    <span>{tentativa.touros}Bull(s) {tentativa.vacas}Cow(s)</span>
                   </div>
                 ))}
               </div>
